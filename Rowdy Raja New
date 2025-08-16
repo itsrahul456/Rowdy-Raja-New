@@ -27,6 +27,6 @@
     "username": "Rowdy",
     "password": "Rowdy123",
     "expiresAt": "2028-12-12",
-    "allowOffline": true
+    "allowOffline": false
   }
 ]
